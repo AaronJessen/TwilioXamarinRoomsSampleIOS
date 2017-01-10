@@ -1,4 +1,4 @@
-# Twilio Video Quick Start for Xamarin.iOS in C#
+# Twilio Video Quick Start for Xamarin.iOS in CSharp
 
 **This is based off the [Swift version](https://github.com/twilio/video-quickstart-swift) iOS Sample**
 
