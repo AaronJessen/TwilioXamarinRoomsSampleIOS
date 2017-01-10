@@ -1,6 +1,6 @@
 # Twilio Video Quick Start for Xamarin.iOS in CSharp
 
-**This is based off the [Swift version](https://github.com/twilio/video-quickstart-swift) iOS Sample**
+**This is based off the [Swift iOS Sample](https://github.com/twilio/video-quickstart-swift)**
 
 > NOTE: This application uses Twilio's new Programmable Video Rooms API, which is currently available in Beta. The docs are [here](https://media.twiliocdn.com/sdk/ios/video/v1.0/docs/).
 
